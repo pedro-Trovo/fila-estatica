@@ -1,0 +1,28 @@
+# Compilados
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+# IDEs/Editor
+.idea/
+cmake-build-*/
+.vscode/
+*.iml
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+build/
+
+# Backup
+*~
+*.bak
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db
