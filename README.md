@@ -1,4 +1,4 @@
-<h1 align="center">Fila Estática Circular</h1>
+<h1 align="center">Fila Estática</h1>
 
 <p align="center">
   <strong>Implementação de uma Fila Estática Circular em C com vetor</strong><br>
